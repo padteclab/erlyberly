@@ -31,9 +31,9 @@
 
   <dependencies>
     <dependency>
-      <groupId>com.github.andytill</groupId>
+      <groupId>com.github.padteclab</groupId>
       <artifactId>jinterface</artifactId>
-      <version>1.6.0</version>
+      <version>1.11</version>
     </dependency>
     <dependency>
       <groupId>junit</groupId>
